@@ -1,0 +1,10 @@
+/Users/carloscastillo/Projects/hackerrank/hackerrank/obj/x86/Debug/hackerrank.csproj.CoreCompileInputs.cache
+/Users/carloscastillo/Projects/hackerrank/hackerrank/bin/Debug/hackerrank.exe
+/Users/carloscastillo/Projects/hackerrank/hackerrank/bin/Debug/hackerrank.pdb
+/Users/carloscastillo/Projects/hackerrank/hackerrank/obj/x86/Debug/hackerrank.exe
+/Users/carloscastillo/Projects/hackerrank/hackerrank/obj/x86/Debug/hackerrank.pdb
+D:\hackerrank\hackerrank\obj\x86\Debug\hackerrank.exe
+D:\hackerrank\hackerrank\obj\x86\Debug\hackerrank.pdb
+D:\hackerrank\hackerrank\bin\Debug\hackerrank.exe
+D:\hackerrank\hackerrank\bin\Debug\hackerrank.pdb
+D:\hackerrank\hackerrank\obj\x86\Debug\hackerrank.csprojResolveAssemblyReference.cache
