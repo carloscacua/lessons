@@ -6,7 +6,7 @@ namespace hackerrank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(TapeEquilibrium.solution(new int[] {-1000, 1000}));
+            Console.WriteLine(MaxProductOfThree.solution(new int[]{ -5, 5, -5, 4}));
             Console.ReadLine();
         }
     }

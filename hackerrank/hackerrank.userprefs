@@ -1,16 +1,11 @@
 ﻿<Properties StartupConfiguration="{1BECA917-97D7-4439-9A19-8A791A4CADEF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="hackerrank/Codility.cs">
-    <Files>
-      <File FileName="hackerrank/Codility.cs" Line="14" Column="19" />
-      <File FileName="hackerrank/Properties/Main.cs" Line="8" Column="2" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/carloscastillo/Projects/hackerrank/hackerrank/codility.cs" relfile="hackerrank/codility.cs" line="14" column="1" />
-      <Breakpoint file="/Users/carloscastillo/Projects/hackerrank/hackerrank/codility.cs" relfile="hackerrank/codility.cs" line="13" column="1" />
-      <Breakpoint file="/Users/carloscastillo/Projects/hackerrank/hackerrank/codility.cs" relfile="hackerrank/codility.cs" line="15" column="1" />
+      <Breakpoint file="/Users/carloscastillo/lessons/hackerrank/hackerrank/codility.cs" relfile="hackerrank/codility.cs" line="14" column="1" />
+      <Breakpoint file="/Users/carloscastillo/lessons/hackerrank/hackerrank/codility.cs" relfile="hackerrank/codility.cs" line="13" column="1" />
+      <Breakpoint file="/Users/carloscastillo/lessons/hackerrank/hackerrank/codility.cs" relfile="hackerrank/codility.cs" line="15" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

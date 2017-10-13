@@ -41,6 +41,11 @@
     <Compile Include="BinaryGap.cs" />
     <Compile Include="TapeEquilibrium.cs" />
     <Compile Include="ZeroIndexedArray.cs" />
+    <Compile Include="PermCheck.cs" />
+    <Compile Include="CountDiv.cs" />
+    <Compile Include="Distinct.cs" />
+    <Compile Include="KnightL.cs" />
+    <Compile Include="MaxProductOfThree.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
